@@ -1,0 +1,29 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Lekhantu" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+
+    <style name="Theme.Lekhantu" parent="Base.Theme.Lekhantu" />
+
+
+    <style name="ToolbarTitle" parent="TextAppearance.MaterialComponents.Headline6">
+        <item name="android:textSize">24sp</item>
+        <item name="android:textColor">@color/yellow</item>
+        <item name="android:textStyle">bold</item>
+        <item name="fontFamily">@font/poppins</item>
+    </style>
+
+    <style name="CustomChipStyle" parent="Widget.Material3.Chip.Filter">
+
+
+        <item name="chipBackgroundColor">@color/chip_background_color</item>
+        <item name="chipStrokeColor">@color/yellow</item>
+        <item name="chipStrokeWidth">2dp</item>
+        <item name="android:textColor">@color/chip_text_color</item>
+
+    </style>
+
+    <color name="yellow">#FECA6B</color>
+</resources>

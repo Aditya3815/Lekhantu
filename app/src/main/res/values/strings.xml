@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Lekhantu</string>
+    <string name="search">Search</string>
+    <string name="save">Save</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="image">image</string>
+    <string name="ideas">Ideas</string>
+    <string name="personal">Personal</string>
+    <string name="work">Work</string>
+    <string name="enter_the_description">Enter the description</string>
+    <string name="add_note">Add Note</string>
+    <string name="update">Update</string>
+</resources>
